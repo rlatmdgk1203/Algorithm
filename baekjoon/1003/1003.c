@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int fibonacci(int n) {
+/*int fibonacci(int n) {
     if (n == 0) {
         printf("0");
         return 0;
@@ -19,5 +19,15 @@ int main(void){
     for (i=1; i<=T; i++){
         scanf("%d", &N);
     }
+    if(){
+        printf("Invalid");
+    }
+}*/
+
+int main() {
+    int a,b;
+
+    scanf("%d %d", &a, &b);
+
     
 }
